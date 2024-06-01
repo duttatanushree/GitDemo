@@ -4,8 +4,7 @@ package QR_Pack;
 
 
 
-import net.glxn.qrgen.core.image.ImageType;
-import net.glxn.qrgen.javase.QRCode;
+
 import java.io.*;
 
 
